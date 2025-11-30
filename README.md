@@ -29,7 +29,7 @@ I am a third-year undergraduate student passionate about **Data Science** and **
 ### 📚 Technical Writing & Data Portfolio
 * **Medium:** [burhankocakym](https://medium.com/@burhankocakym)
   * *Sharing technical articles on Data Science and Software Engineering journeys.*
-* **Kaggle:** [Kaggle Profile](https://www.kaggle.com/) * *My data analysis notebooks, visualization projects, and competition solutions.*
+* **Kaggle:** [Kaggle Profile](https://www.kaggle.com/) 
 
 ### 🌐 Social Media & Content
 * **LinkedIn:** [Burhan Koçak](https://www.linkedin.com/in/burhan-ko%C3%A7ak-52b1a738a/)
