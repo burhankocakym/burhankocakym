@@ -26,8 +26,13 @@ I am a third-year undergraduate student passionate about **Data Science** and **
 **I am always open to discussing new projects, opportunities, or simply connecting. Feel free to reach out!** 👋
 * **Email:** [burhankocakym@gmail.com](mailto:burhankocakym@gmail.com)
 
+### 📚 Technical Writing & Data Portfolio
+* **Medium:** [burhankocakym](https://medium.com/@burhankocakym)
+  * *Sharing technical articles on Data Science and Software Engineering journeys.*
+* **Kaggle:** [Kaggle Profile](https://www.kaggle.com/) * *My data analysis notebooks, visualization projects, and competition solutions.*
+
 ### 🌐 Social Media & Content
-* **Medium:** [burhankocakym](https://medium.com/@burhankocakym) *(My Technical Blog)*
 * **LinkedIn:** [Burhan Koçak](https://www.linkedin.com/in/burhan-ko%C3%A7ak-52b1a738a/)
-* **Kaggle:** [Kaggle Profile](https://www.kaggle.com/) * **Instagram:** [@kocakburhn](https://www.instagram.com/kocakburhn/)
+* **Instagram:** [@kocakburhn](https://www.instagram.com/kocakburhn/)
 * **TikTok:** [@kocakburhan](https://www.tiktok.com/@kocakburhan)
+
