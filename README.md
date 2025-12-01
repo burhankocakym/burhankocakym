@@ -18,7 +18,7 @@ I am a third-year undergraduate student passionate about **Data Science** and **
 * **Languages:** Python, Java
 * **Software Design:** MVC Architecture, Clean Code Principles
 * **ML Libraries:** Scikit-learn
-* **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
+* **Data Analysis:** Pandas, NumPy, Matplotlib
 * **Tools:** Git, Jupyter Notebooks , PyCharm , Intellij IDEA
 
 ---
